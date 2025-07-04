@@ -4,9 +4,8 @@ Una aplicación sencilla y fácil de usar, desarrollada en Python  con el framew
 🚀 Características principales: 
 
     Interfaz gráfica intuitiva y amigable.
-    Descarga canciones desde una URL de YouTube o por nombre del artista/canción.
+    Descarga canciones desde una URL de YouTube.
     Conversión automática a formato MP3 (u otras opciones disponibles).
-    Selección de calidad de audio.
     Multiplataforma: compatible con Windows, macOS y Linux.
      
 
@@ -14,7 +13,7 @@ Una aplicación sencilla y fácil de usar, desarrollada en Python  con el framew
 
     Python 
     Flet  (para la interfaz gráfica)
-    pytube  o yt-dlp  (para la descarga de contenido)
+    yt-dlp  (para la descarga de contenido)
     ffmpeg  (para la conversión de audio)
      
 
